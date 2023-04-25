@@ -1,0 +1,106 @@
+SENT to: 0.0.0.0:4002
+My ID: 4001, My Status: Follower, My Term No: 6
+SENT to: 0.0.0.0:4003
+My ID: 4001, My Status: Follower, My Term No: 7
+SENT to: 0.0.0.0:4004
+My ID: 4001, My Status: Follower, My Term No: 8
+RECEVIED from: 4002
+ID: 4002, Status: Follower, Term No: 4, My Term No: 9
+RECEVIED from: 4003
+ID: 4003, Status: Follower, Term No: 5, My Term No: 10
+RECEVIED from: 4004
+ID: 4004, Status: Follower, Term No: 5, My Term No: 11
+SENT to: 0.0.0.0:4002
+My ID: 4001, My Status: Follower, My Term No: 11
+SENT to: 0.0.0.0:4003
+My ID: 4001, My Status: Follower, My Term No: 12
+SENT to: 0.0.0.0:4004
+My ID: 4001, My Status: Follower, My Term No: 13
+RECEVIED from: 4003
+ID: 4003, Status: Follower, Term No: 7, My Term No: 14
+RECEVIED from: 4004
+ID: 4004, Status: Follower, Term No: 11, My Term No: 15
+RECEVIED from: 4002
+ID: 4002, Status: Candidate, Term No: 9, My Term No: 16
+SENT to: 0.0.0.0:4002
+ID: 4001, Status: Candidate, Term No: 11
+SENT to: 0.0.0.0:4003
+ID: 4001, Status: Candidate, Term No: 12
+SENT to: 0.0.0.0:4004
+ID: 4001, Status: Candidate, Term No: 13
+SENT to: 0.0.0.0:4002
+ID: 4001, Status: Candidate, Term No: 11
+SENT to: 0.0.0.0:4003
+ID: 4001, Status: Candidate, Term No: 12
+SENT to: 0.0.0.0:4004
+ID: 4001, Status: Candidate, Term No: 13
+SENT to: 0.0.0.0:4002
+ID: 4001, Status: Candidate, Term No: 11
+SENT to: 0.0.0.0:4003
+ID: 4001, Status: Candidate, Term No: 12
+SENT to: 0.0.0.0:4004
+ID: 4001, Status: Candidate, Term No: 13
+SENT to: 0.0.0.0:4002
+ID: 4001, Status: Leader, Term No: 14
+SENT to: 0.0.0.0:4003
+ID: 4001, Status: Leader, Term No: 15
+SENT to: 0.0.0.0:4004
+ID: 4001, Status: Leader, Term No: 16
+SENT to: 0.0.0.0:4002
+ID: 4001, Status: Leader, Term No: 17
+SENT to: 0.0.0.0:4003
+ID: 4001, Status: Leader, Term No: 18
+SENT to: 0.0.0.0:4004
+ID: 4001, Status: Leader, Term No: 19
+RECEVIED from: 4003
+ID: 4003, Status: Follower, Term No: 7, My Term No: 20
+RECEVIED from: 4003
+ID: 4003, Status: Follower, Term No: 13, My Term No: 21
+SENT to: 0.0.0.0:4002
+ID: 4001, Status: Candidate, Term No: 11
+SENT to: 0.0.0.0:4003
+ID: 4001, Status: Candidate, Term No: 12
+SENT to: 0.0.0.0:4004
+ID: 4001, Status: Candidate, Term No: 13
+SENT to: 0.0.0.0:4002
+ID: 4001, Status: Leader, Term No: 14
+SENT to: 0.0.0.0:4003
+ID: 4001, Status: Leader, Term No: 15
+SENT to: 0.0.0.0:4004
+ID: 4001, Status: Leader, Term No: 16
+SENT to: 0.0.0.0:4002
+ID: 4001, Status: Leader, Term No: 17
+SENT to: 0.0.0.0:4003
+ID: 4001, Status: Leader, Term No: 18
+SENT to: 0.0.0.0:4004
+ID: 4001, Status: Leader, Term No: 19
+SENT to: 0.0.0.0:4002
+ID: 4001, Status: Follower, Term No: 11
+SENT to: 0.0.0.0:4003
+ID: 4001, Status: Follower, Term No: 12
+SENT to: 0.0.0.0:4004
+ID: 4001, Status: Follower, Term No: 13
+SENT to: 0.0.0.0:4002
+ID: 4001, Status: Follower, Term No: 12
+SENT to: 0.0.0.0:4003
+ID: 4001, Status: Follower, Term No: 13
+SENT to: 0.0.0.0:4004
+ID: 4001, Status: Follower, Term No: 14
+SENT to: 0.0.0.0:4002
+ID: 4001, Status: Follower, Term No: 15
+SENT to: 0.0.0.0:4003
+ID: 4001, Status: Follower, Term No: 16
+SENT to: 0.0.0.0:4004
+ID: 4001, Status: Follower, Term No: 17
+RECEVIED from: 4003
+ID: 4003, Status: Follower, Term No: 7, My Term No: 18
+RECEVIED from: 4002
+ID: 4002, Status: Follower, Term No: 12, My Term No: 19
+RECEVIED from: 4002
+ID: 4002, Status: Follower, Term No: 19, My Term No: 20
+SENT to: 0.0.0.0:4002
+ID: 4001, Status: Candidate, Term No: 10
+SENT to: 0.0.0.0:4003
+ID: 4001, Status: Candidate, Term No: 10
+SENT to: 0.0.0.0:4004
+ID: 4001, Status: Candidate, Term No: 10

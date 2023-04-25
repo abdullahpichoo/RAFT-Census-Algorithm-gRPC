@@ -1,0 +1,68 @@
+RECEVIED from: 4001
+ID: 4001, Status: Follower, Term No: 6, My Term No: 6
+RECEVIED from: 4002
+ID: 4002, Status: Follower, Term No: 6, My Term No: 7
+SENT to: 0.0.0.0:4001
+My ID: 4003, My Status: Follower, My Term No: 8
+SENT to: 0.0.0.0:4002
+My ID: 4003, My Status: Follower, My Term No: 9
+SENT to: 0.0.0.0:4004
+My ID: 4003, My Status: Follower, My Term No: 10
+RECEVIED from: 4004
+ID: 4004, Status: Follower, Term No: 10, My Term No: 11
+RECEVIED from: 4001
+ID: 4001, Status: Follower, Term No: 11, My Term No: 8
+SENT to: 0.0.0.0:4001
+My ID: 4003, My Status: Follower, My Term No: 9
+SENT to: 0.0.0.0:4002
+My ID: 4003, My Status: Follower, My Term No: 10
+SENT to: 0.0.0.0:4004
+My ID: 4003, My Status: Follower, My Term No: 11
+RECEVIED from: 4004
+ID: 4004, Status: Follower, Term No: 15, My Term No: 12
+RECEVIED from: 4002
+ID: 4002, Status: Candidate, Term No: 13, My Term No: 13
+RECEVIED from: 4001
+ID: 4001, Status: Candidate, Term No: 11, My Term No: 8
+, My Vote Status: Not VotedRECEVIED from: 4001
+ID: 4001, Status: Candidate, Term No: 11, My Term No: 8
+, My Vote Status: Not VotedRECEVIED from: 4001
+ID: 4001, Status: Candidate, Term No: 11, My Term No: 8
+, My Vote Status: Not VotedRECEVIED from: 4001
+ID: 4001, Status: Leader, Term No: 14, My Term No: 9
+RECEVIED from: 4001
+ID: 4001, Status: Leader, Term No: 17, My Term No: 10
+SENT to: 0.0.0.0:4001
+ID: 4003, Status: Follower, Term No: 11
+SENT to: 0.0.0.0:4002
+ID: 4003, Status: Follower, Term No: 12
+SENT to: 0.0.0.0:4004
+ID: 4003, Status: Follower, Term No: 13
+SENT to: 0.0.0.0:4001
+ID: 4003, Status: Follower, Term No: 14
+SENT to: 0.0.0.0:4002
+ID: 4003, Status: Follower, Term No: 15
+SENT to: 0.0.0.0:4004
+ID: 4003, Status: Follower, Term No: 16
+RECEVIED from: 4001
+ID: 4001, Status: Candidate, Term No: 11, My Term No: 8
+, My Vote Status: Not VotedRECEVIED from: 4001
+ID: 4001, Status: Leader, Term No: 14, My Term No: 9
+RECEVIED from: 4001
+ID: 4001, Status: Leader, Term No: 17, My Term No: 10
+RECEVIED from: 4001
+ID: 4001, Status: Follower, Term No: 11, My Term No: 8
+, My Vote Status: Not VotedRECEVIED from: 4001
+ID: 4001, Status: Follower, Term No: 12, My Term No: 8
+RECEVIED from: 4001
+ID: 4001, Status: Follower, Term No: 15, My Term No: 9
+SENT to: 0.0.0.0:4001
+ID: 4003, Status: Follower, Term No: 10
+SENT to: 0.0.0.0:4002
+ID: 4003, Status: Follower, Term No: 11
+SENT to: 0.0.0.0:4004
+ID: 4003, Status: Follower, Term No: 12
+RECEVIED from: 4002
+ID: 4002, Status: Follower, Term No: 17, My Term No: 13
+RECEVIED from: 4002
+ID: 4002, Status: Follower, Term No: 20, My Term No: 14
